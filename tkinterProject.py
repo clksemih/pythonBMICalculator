@@ -64,4 +64,10 @@ def write_result(bmi):
 
 
 
+
+
+
+
+
+
 window.mainloop()
